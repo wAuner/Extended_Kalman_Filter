@@ -25,5 +25,6 @@ ide_profiles/xcode/Debug/
 ide_profiles/xcode/ExtendedKF.build/
 
 src/Eigen/
-src/.vscode
-src/*.zip
+/src/.vscode
+/src/*.zip
+.idea/
